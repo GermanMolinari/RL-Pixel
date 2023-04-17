@@ -1,0 +1,22 @@
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\bin\Debug\net6.0-windows\Registro de llamadas Pixel.exe
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\bin\Debug\net6.0-windows\Registro de llamadas Pixel.deps.json
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\bin\Debug\net6.0-windows\Registro de llamadas Pixel.runtimeconfig.json
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\bin\Debug\net6.0-windows\Registro de llamadas Pixel.dll
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\bin\Debug\net6.0-windows\Registro de llamadas Pixel.pdb
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro de llamadas Pixel.csproj.AssemblyReference.cache
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro_de_llamadas_Pixel.Form1.resources
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro de llamadas Pixel.csproj.GenerateResource.cache
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro de llamadas Pixel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro de llamadas Pixel.AssemblyInfoInputs.cache
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro de llamadas Pixel.AssemblyInfo.cs
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro de llamadas Pixel.csproj.CoreCompileInputs.cache
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro de llamadas Pixel.dll
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\refint\Registro de llamadas Pixel.dll
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro de llamadas Pixel.pdb
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro de llamadas Pixel.genruntimeconfig.cache
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\ref\Registro de llamadas Pixel.dll
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro_de_llamadas_Pixel.Properties.Resources.resources
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro de llamadas Pixel.csproj.CopyComplete
+C:\Users\bolsi uwu\source\repos\Registro de llamadas Pixel\Registro de llamadas Pixel\obj\Debug\net6.0-windows\Registro_de_llamadas_Pixel.FrmPrincipal.resources
