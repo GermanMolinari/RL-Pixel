@@ -16,5 +16,10 @@ namespace Registro_de_llamadas_Pixel
         {
             InitializeComponent();
         }
+
+        private void FrmPrincipal_Load(object sender, EventArgs e)
+        {
+            cmbTitulos.Text = "TITULOS DE REGISTROS";
+        }
     }
 }

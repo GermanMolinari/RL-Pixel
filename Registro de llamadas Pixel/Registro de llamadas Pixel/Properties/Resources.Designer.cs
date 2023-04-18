@@ -63,6 +63,26 @@ namespace Registro_de_llamadas_Pixel.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _47c9066197077c3e4b1c552480909339 {
+            get {
+                object obj = ResourceManager.GetObject("47c9066197077c3e4b1c552480909339", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _47c9066197077c3e4b1c5524809093391 {
+            get {
+                object obj = ResourceManager.GetObject("47c9066197077c3e4b1c5524809093391", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap imagenDeFondo {
             get {
                 object obj = ResourceManager.GetObject("imagenDeFondo", resourceCulture);
